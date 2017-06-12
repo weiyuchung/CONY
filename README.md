@@ -1,2 +1,0 @@
-# CONY
-CONY Program
